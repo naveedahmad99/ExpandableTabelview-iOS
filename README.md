@@ -1,7 +1,8 @@
 # ExpandableTabelview-iOS
 Expanding Table View Cells! (Swift 4 in Xcode) 
 Credit Goes to by  Jared Davidson
-You: https://www.youtube.com/watch?v=ClrSpJ3txAs
+Youtube: 
+https://www.youtube.com/watch?v=ClrSpJ3txAs
 
 
 # Screenshot
